@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <string.h>
 int main(void){
 	int temp=0,x=0;
 	printf("请输入正整数：");	

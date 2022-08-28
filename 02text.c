@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <string.h>
 int main(void){
 	int sum = 0,i,n;
 	printf("输入n的值：");
