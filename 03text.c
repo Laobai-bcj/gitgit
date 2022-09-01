@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <string.h>
 int main(void){
 	int i = 0,x = 0,z = 0,sum = 0;
 	int arr[5];
