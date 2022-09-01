@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <string.h>
 int main(void){
 	int i,tao,day=1;
 	for(i=9;i>0;i--){
